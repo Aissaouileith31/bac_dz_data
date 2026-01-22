@@ -7,5 +7,14 @@
         "pay": false,
         "branch": false,
         "created_at": "2026-01-22 18:32:31"
+    },
+    {
+        "id": "300971e8",
+        "username": "aissaoui leith nordine",
+        "email": "aissaouileith31@gmail.com",
+        "password": "$2b$12$lP1iMqtC5LZja3piGMA5reYEzpi3CCsi9ZqwHvzdqoUxmc57mXJZC",
+        "pay": false,
+        "branch": false,
+        "created_at": "2026-01-22 20:34:44"
     }
 ]
